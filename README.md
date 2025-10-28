@@ -1,26 +1,37 @@
 # Muhammad Adeel Ejaz
 Senior Data Consultant | Transforming Data into Actionable Insights & Business Impact | Expertise in BI (Power BI), ETL (SSIS, Talend), Data Modeling (SSAS), SQL & Python
-<h1 align="left">Hello 👋 Welcome to my profile!</h1>
+
+---
+
+
+<h1 align="center">Hello 👋 Welcome to my profile!</h1>
 
 ###
 
-<p align="left">My name is Muhammad Adeel Ejaz, a Business Systems & Data strategist, using Data to drive big business decisions since last over 8 years at QDS, Systems Limited and before that at Afiniti as well. </p>
+<h3 align="center">My name is Muhammad Adeel Ejaz, a Business Systems & Data strategist, using Data to drive big business decisions since last over 8 years at QDS, Systems Limited and before that at Afiniti as well. </h3>
 
-###
 
-<h2 align="left">About me</h2>
+---
+
+
+## 🌍 About Me
+
 
 ###
 
 <p align="left">
 📌 Passionate about turning data into meaningful insights<br>
-📌 Experienced in Excel, SQL, Python and Power BI for data analysis and visualization<br>
-📌 Currently enhancing my skills in Python, Machine Learning, Deep Learning and Generative AI at Luminar Technolab<br>
-📌 Goal: To build end-to-end data-driven solutions and impactful dashboards<br>
+📌 Experienced in Excel, SQL, Python, SSIS, SSAS, SSRS, Looker, LookML and Power BI for data analysis and visualization<br>
+📌 Currently enhancing my skills in Python, Machine Learning, Deep Learning and Generative AI <br>
+📌 Goal: To build end-to-end data-driven solutions that can impact the businesses in a very different format<br>
 📌 Fun fact: I love combining creativity with data storytelling!
 </p>
 
 ###
+
+
+---
+
 
 <h2 align="left">I work with</h2>
 
@@ -44,19 +55,32 @@ Senior Data Consultant | Transforming Data into Actionable Insights & Business I
   <img src="https://logos-world.net/wp-content/uploads/2020/02/Canva-New-Logo.png" height="40" alt="canva logo" />
   <img width="12" />
   <img src="https://logos-world.net/wp-content/uploads/2024/09/Figma-Logo.png" height="40" alt="figma logo" />
+  <img width="12" />
 </div>
 
 ###
 
-<h2 align="left">Let's connect</h2>
+---
+
+
+## 🧠 Skills Highlight
+
+✅ **Technical Tools:** Power BI, SQL, DAX, Python, Looker, Excel  
+✅ **Data Modeling:** Star Schema, Dimensional Modeling, KPI Design  
+✅ **Visualization:** Interactive reports for financial and operational metrics  
+✅ **Business Understanding:** Banking, SaaS, and Revenue Analytics
+
+---
+
+## 🤝 Connect With Me
 
 ###
 
 <p align="left">
-<a href="https://www.linkedin.com/in/nithi-harikumar-7063511b7" target="_blank">
+<a href="https://www.linkedin.com/in/adeel-ejaz-99304360/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" height="40" alt="LinkedIn Logo"/>
 </a>
-<a href="mailto:nithiharikumar05@gmail.com" target="_blank">
+<a href="mailto:adeelejaz33@gmail.com" target="_blank">
   <img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" height="40" alt="Gmail Logo"/>
 </a>
 </p>
