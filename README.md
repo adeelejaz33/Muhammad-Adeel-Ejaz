@@ -1,10 +1,10 @@
-# Nithi_HK
-Data Analyst | Python, SQL, ML &amp; Power BI
+# Muhammad Adeel Ejaz
+Senior Data Consultant | Transforming Data into Actionable Insights & Business Impact | Expertise in BI (Power BI), ETL (SSIS, Talend), Data Modeling (SSAS), SQL & Python
 <h1 align="left">Hello 👋 Welcome to my profile!</h1>
 
 ###
 
-<p align="left">My name is Nithi Harikumar and I'm a Data Analyst.</p>
+<p align="left">My name is Muhammad Adeel Ejaz, a Business Systems & Data strategist, using Data to drive big business decisions since last over 8 years at QDS, Systems Limited and before that at Afiniti as well. </p>
 
 ###
 
