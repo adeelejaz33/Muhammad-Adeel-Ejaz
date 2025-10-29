@@ -1,14 +1,16 @@
-# Muhammad Adeel Ejaz
-Senior Data Consultant | Transforming Data into Actionable Insights & Business Impact | Expertise in BI (Power BI), ETL (SSIS, Talend), Data Modeling (SSAS), SQL & Python
+<h1 align="center"> Muhammad Adeel Ejaz </h1>
+<h3 align="center"> Senior Data Consultant | Transforming Data into Actionable Insights & Business Impact | Expertise in BI (Power BI), ETL (SSIS, Talend), Data Modeling (SSAS), SQL & Python </h3>
 
 ---
 
 
-<h1 align="center">Hello 👋 Welcome to my profile!</h1>
+<h1 align="center">Hi 👋 Welcome to my profile!</h1>
 
-###
+---
 
-<h3 align="center">My name is Muhammad Adeel Ejaz, a Business Systems & Data strategist, using Data to drive big business decisions since last over 8 years at QDS, Systems Limited and before that at Afiniti as well. </h3>
+<p align="center"><img src="https://user-images.githubusercontent.com/113003602/206840652-da0393a2-bdcf-485a-9fbd-a1994bc30275.png"></p>
+
+<h3 align="center">My name is Muhammad Adeel Ejaz, a Business Systems & Data strategist, using Data to drive big business decisions for more than 8 years at QDS, Systems Limited and before that at Afiniti as well. </h3>
 
 
 ---
@@ -23,7 +25,7 @@ Senior Data Consultant | Transforming Data into Actionable Insights & Business I
 📌 Passionate about turning data into meaningful insights<br>
 📌 Experienced in Excel, SQL, Python, SSIS, SSAS, SSRS, Looker, LookML and Power BI for data analysis and visualization<br>
 📌 Currently enhancing my skills in Python, Machine Learning, Deep Learning and Generative AI <br>
-📌 Goal: To build end-to-end data-driven solutions that can impact the businesses in a very different format<br>
+📌 Goal: To build end-to-end data-driven solutions that can impact businesses in a very different format<br>
 📌 Fun fact: I love combining creativity with data storytelling!
 </p>
 
